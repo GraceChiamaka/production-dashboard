@@ -120,8 +120,10 @@ class sideNav extends Component {
                             {
                                 this.state.showFullOptions ?
                                     <span className="menu__item-desktop">
-                                        <span className="icon mr-3"></span>
-                                        <img src={CartIcon} alt="side nav cart icon" />
+                                        <span className="icon mr-3">
+                                            <img src={CartIcon} alt="side nav cart icon" />
+                                        </span>
+                                        Supply Store
                                     </span> :
                                     <span className="menu__item-mobile" title="store">
                                         <img src={CartIcon} alt="event menu icon" />
