@@ -1,0 +1,62 @@
+@import '../../assets/scss/mixins/mixins';
+.Loader {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    @include screenSize(ls-phone){
+      left: 56%;
+    }
+    @include screenSize(ss-phone){
+      left: 53%;
+    }
+    div{
+        display: inline-block;
+        position: absolute;
+        left: 8px;
+        width: 16px;
+        background: #FECB09;
+        animation: loaderFrames 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+        &:nth-child(1) {
+            left: 8px;
+            animation-delay: -0.24s;
+        }
+        &:nth-child(2) {
+            left: 32px;
+        }
+        &:nth-child(3) {
+            left: 56px;
+            animation-delay: 0;
+        }
+    }
+  
+  }
+  @keyframes loaderFrames {
+    0% {
+      top: 8px;
+      height: 64px;
+    }
+    50%, 100% {
+      top: 24px;
+      height: 32px;
+    }
+}
+h3.loading-info{
+  color: #FECB09;
+  position: fixed;
+  top: 57%;
+  left: 45%;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 1rem;
+  @include screenSize(ls-phone){
+    left: 30%;
+  }
+  @include screenSize(ss-phone){
+    left: 37%;
+  }
+}

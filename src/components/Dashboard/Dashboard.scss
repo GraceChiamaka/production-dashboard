@@ -1,0 +1,15 @@
+.Dashboard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .dashboard-content{
+        max-width: 90.5;
+        width: 90.5%;
+        margin-bottom: 2rem;
+        position: absolute;
+        left: 143px;
+        background: #fcfcfc;
+        
+    }
+    
+}
