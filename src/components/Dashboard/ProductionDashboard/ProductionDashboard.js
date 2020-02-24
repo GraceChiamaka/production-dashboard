@@ -121,8 +121,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <th>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect1" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect1" id="itemSelect1" />
+                                                        <label class="custom-control-label" for="itemSelect1"></label>
                                                     </div>
                                                 </th>
                                                 <th>Order #</th>
@@ -140,8 +140,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <td>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect2" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect2" id="itemSelect2" />
+                                                        <label class="custom-control-label" for="itemSelect2"></label>
                                                     </div>
                                                 </td>
                                                 <td>#232JODJSDKN2</td>
@@ -177,8 +177,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <td>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect2" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect3" id="itemSelect3" />
+                                                        <label class="custom-control-label" for="itemSelect3"></label>
                                                     </div>
                                                 </td>
                                                 <td>#232JODJSDKN2</td>
@@ -219,8 +219,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <th>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect1" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect4" id="itemSelect4" />
+                                                        <label class="custom-control-label" for="itemSelect4"></label>
                                                     </div>
                                                 </th>
                                                 <th>Order #</th>
@@ -238,8 +238,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <td>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect2" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect5" id="itemSelect5" />
+                                                        <label class="custom-control-label" for="itemSelect5"></label>
                                                     </div>
                                                 </td>
                                                 <td>#232JODJSDKN2</td>
@@ -275,8 +275,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <td>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect2" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect5" id="itemSelect5" />
+                                                        <label class="custom-control-label" for="itemSelect5"></label>
                                                     </div>
                                                 </td>
                                                 <td>#232JODJSDKN2</td>
@@ -317,8 +317,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <th>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect1" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect6" id="itemSelect6" />
+                                                        <label class="custom-control-label" for="itemSelect6"></label>
                                                     </div>
                                                 </th>
                                                 <th>Order #</th>
@@ -336,8 +336,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <td>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect2" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect7" id="itemSelect7" />
+                                                        <label class="custom-control-label" for="itemSelect7"></label>
                                                     </div>
                                                 </td>
                                                 <td>#232JODJSDKN2</td>
@@ -373,8 +373,8 @@ class EventDashboard extends Component {
                                             <tr>
                                                 <td>
                                                     <div class="custom-control custom-checkbox">
-                                                        <input type="checkbox" class="custom-control-input" name="itemSelect" id="itemSelect2" />
-                                                        <label class="custom-control-label" for="itemSelect"></label>
+                                                        <input type="checkbox" class="custom-control-input" name="itemSelect8" id="itemSelect8" />
+                                                        <label class="custom-control-label" for="itemSelect8"></label>
                                                     </div>
                                                 </td>
                                                 <td>#232JODJSDKN2</td>
